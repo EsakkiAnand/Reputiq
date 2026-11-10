@@ -155,3 +155,4 @@ npm run build
 2. **Deterministic High-Risk Escalation:** AI will never automatically respond to reviews alleging food poisoning, injuries, safety violations, discrimination, or legal litigation. High-risk reviews are automatically placed in the supervisor approval queue.
 3. **Strict Multi-Tenant Verification:** Every write and read operation confirms that the requesting authenticated principal belongs to the active tenant owning the target business, location, review, or poster.
 4. **Anti-Review Gating Parity:** The customer feedback endpoint `/q/{token}` prominently and unconditionally provides the direct Google Business Profile review write link to 100% of customers, strictly upholding Google Maps user-generated content policies.
+Server registry - Eureka
